@@ -75,6 +75,7 @@ lung_cancer_project/
 
 📹 Video Demonstration
 Watch this quick explainer video:
+[![Watch the demo]](https://github.com/Disha4346/Lung_Cancer_Detection/blob/main/demo_lung_cancer.mp4)
 
 👩‍⚕️ Disclaimer
 This tool is intended for educational and demonstration purposes only.
